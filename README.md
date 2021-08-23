@@ -1,2 +1,2 @@
 # FTC-RunModes
-Contains a wiki tutorial on FTC RunModes.
+Intended to contain a wiki tutorial on FTC RunModes.
